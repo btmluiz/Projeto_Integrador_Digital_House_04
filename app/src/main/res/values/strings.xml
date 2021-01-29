@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projeto Integrador Digital House 04</string>
+    <string name="search_games">Search Games</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="repeate_password">Repeate password</string>
+    <string name="titulo">Titulo</string>
+    <string name="lan_amento">Lançamento</string>
+</resources>
