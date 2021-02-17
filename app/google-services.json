@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68570674705",
+    "project_id": "pidigitalhouse-luizbraga",
+    "storage_bucket": "pidigitalhouse-luizbraga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68570674705:android:10324d9641f596bb4be3b0",
+        "android_client_info": {
+          "package_name": "br.dev.luizfelipe.projetointegradordigitalhouse04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68570674705-lo73aevc6jnol3sg1i8s9qu7dnl6iq82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7-gHF1JQbesLWznegNZiqifaVWOdW2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68570674705-lo73aevc6jnol3sg1i8s9qu7dnl6iq82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
